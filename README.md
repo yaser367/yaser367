@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaser367&label=Profile%20views&color=0e75b6&style=flat" alt="yaser367" /> </p>
 
-- 🔭 I’m currently working on **ezy shop**
+- 🔭 I’m currently working on **Turf Play**
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **next.js**
 
 - 💬 Ask me about **MERN**
 
