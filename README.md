@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Turf Play**
 
-- 🌱 I’m currently learning **next.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **MERN**
 
